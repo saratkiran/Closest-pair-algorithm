@@ -6,7 +6,8 @@ Uncomment the code between the horizontal dotted lines for corresponding solutio
  
 Change the length variable to change the number of input objects 
 All solutions are written in seperate functions. To execute each uncomment the correponding section.
-
+                 
+                 ------------------------------------------------------------------------
 Folders -
 
 Raw Data - Inputs used for testing all the algorithms
@@ -16,6 +17,8 @@ Java Code - Code used for the algos
 Graphs - Graphs with different parameters to measure the efficiency of the algorithm
 
 Report - Detailed information about graphs and observations.
+
+                 ------------------------------------------------------------------------
 
 1) Implemented a problem generator for the closest pair problem.
     On a domain of 100 by 100, generated n points with different distributions: 
